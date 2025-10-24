@@ -26,4 +26,4 @@ Python (strong skills in Machine Learning and NLP), C/C++, Java, Microsoft Excel
 
 - [Class Interactor Web Application](https://github.com/smid5/project-killington) — A platform to streamline class communication through Q&A, announcements, and exit tickets. Built using JavaScript and React, with PostgreSQL, Knex.js for query building and styled with Tailwind CSS
 
-[LinkedIn](www.linkedin.com/in/shingo-kodama-b0b633364)
+[LinkedIn](https://linkedin.com/in/shingo-kodama-b0b633364)
